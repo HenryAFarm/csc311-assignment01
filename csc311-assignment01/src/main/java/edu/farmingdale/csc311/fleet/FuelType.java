@@ -7,20 +7,6 @@ package edu.farmingdale.csc311.fleet;
  */
 public enum FuelType {
 
-    /* ------------------------------------------------------------------
-     * TODO-01     commit: TODO-01: add FuelType data and lookup
-     *
-     * Each constant carries three values:
-     *
-     *      constant   label        unit        milesPerUnit
-     *      GASOLINE   "Gasoline"   "gallons"   28.0
-     *      DIESEL     "Diesel"     "gallons"   34.0
-     *      ELECTRIC   "Electric"   "kWh"        3.2
-     *      HYBRID     "Hybrid"     "gallons"   48.0
-     *
-     * Pass those values to each constant, add three private final fields,
-     * write the constructor, then finish the five methods below.
-     * ------------------------------------------------------------------ */
 
     GASOLINE("Gasoline", "gallons", 28.0),
     DIESEL("Diesel", "gallons", 34.0),
